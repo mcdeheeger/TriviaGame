@@ -1,0 +1,14 @@
+.question {
+padding-top: 10px;
+}
+
+.jumbotron {
+	color: black;
+	font-family: comic;
+	background-image: url(../images/riddler.jpg);
+	background-size: 309px;
+}
+
+.time {
+	font-size: 30px;
+}
